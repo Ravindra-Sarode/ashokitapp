@@ -7,6 +7,7 @@
   Maven is a software project management and comprehension tool. Based on
   the concept of a Project Object Model (POM), Maven can manage a project's
   build, reporting and documentation from a central piece of information.
+  Git learning now and practice on it so will check what is next status of 
 
   Documentation
   -------------
